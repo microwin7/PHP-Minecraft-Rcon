@@ -1,5 +1,5 @@
 {
-	"name": "thedudeguy/rcon",
+	"name": "microwin7/rcon",
 	"description": "Simple Rcon class for php.",
 	"keywords": ["rcon", "minecraft"],
 	"homepage": "https://github.com/thedudeguy/PHP-Minecraft-Rcon",
